@@ -1,0 +1,1 @@
+# dlp-ns-inspecciones-app-movil
